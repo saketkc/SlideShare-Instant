@@ -1,0 +1,59 @@
+body {
+background-color:#86c9ef;
+color:#000;
+font-family:'Georgia', Times New Roman, Times, serif
+
+}
+
+.search_input
+{
+
+border:2px solid #333;
+font-size:20px;
+padding:5px;
+width:350px;
+font-family:'Georgia', Times New Roman, Times, serif;
+-moz-border-radius:5px;-webkit-border-radius:5px;
+
+
+}
+#input_box
+{
+text-align:left;
+width:640px;
+
+}
+.inner
+{
+background-color:#000;
+margin-top:25px;
+min-height:370px;
+width:480px;
+border:solid 10px #ffffff;
+
+-moz-border-radius:9px;
+-webkit-border-radius:9px;
+
+}
+#no
+{
+padding:30px;
+font-size:24px;
+color:#fff;
+
+}
+
+#title
+{
+background-color:#fff;
+font-size:26px;
+text-align:left;
+padding-bottom:8px;
+
+}
+#count
+{
+background-color:#fff;
+text-align:left;
+padding-top:8px;
+}
