@@ -12,8 +12,8 @@ if ($_GET['op']=="ajaxrequest")
 	$api_key="8GD14Jk1";
 $secret="mnFaUN4s";
 
-$proxy="http://netmon.iitb.ac.in";
-$pass="saket.kumar:knoppix.fedora";
+$proxy="Your proxy";
+$pass="password";
 $timeout=0;
 $ts=time();
 	$hash=sha1($secret.$ts);
@@ -82,8 +82,8 @@ if ($_GET['op']=="numberrequest")
 	$api_key="8GD14Jk1";
 $secret="mnFaUN4s";
 
-$proxy="http://netmon.iitb.ac.in";
-$pass="saket.kumar:knoppix.fedora";
+$proxy="proxy";
+$pass="password";
 $timeout=0;
 $ts=time();
 	$hash=sha1($secret.$ts);
